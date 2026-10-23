@@ -1,0 +1,7 @@
+{
+  "name": "Baby Franklin Promo Studio",
+  "description": "Private promotion studio and content rollout dashboard for Baby Franklin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
